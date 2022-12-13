@@ -1,3 +1,5 @@
+# CRScube
+
 dr_script.sh
 - DR 배포 자동화에서 사용하는 스크립트
 
