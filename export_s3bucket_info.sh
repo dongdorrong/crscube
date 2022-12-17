@@ -30,4 +30,3 @@ $HOME/devops_script_website.json > $HOME/$BUCKET_NAME.json
 rm -rf $HOME/devops_script_*.json
 
 cat $HOME/$BUCKET_NAME.json
-~                                       
