@@ -19,5 +19,4 @@ domain-needed
 bogus-priv
 #######################################
 touch /etc/resolv.dnsmasq
-bash -c "echo 'nameserver 169.254.169.253' > /etc/resolv.dnsmasq"
-~                                                                     
+bash -c "echo 'nameserver 169.254.169.253' > /etc/resolv.dnsmasq"                                                                 
