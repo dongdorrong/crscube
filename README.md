@@ -9,6 +9,9 @@ dump.sh
 export_s3bucket_info.sh
 - S3 관련 정보 추출해서 취합하는 스크립트
 
+fullbackup.sh
+- MariaDB Replica 서버에서 로컬 백업 > Alibaba OSS Bucket에 소산 백업
+
 install_dnsmasq.sh
 - ECS 컨테이너 내부 DNS 캐시 사용하도록 설치하는 스크립트
 
